@@ -23,7 +23,7 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 **Description**: A mobile-optimized augmented reality platform for interacting with 3D animals. Users can place animals in AR, engage in mini-games, and enjoy real-time audio feedback that changes based on interactions. 📱
 
-**Technologies**: React Native, ARKit, Web Audio API 📳
+**Technologies**: React, ARKit, ServiceWorker(OfflineTechnology), PWA(installable), Web Audio API 📳
 
 **Features**:
 - 🌍 **AR 3D Animal Placement**: Place virtual animals on real surfaces.
@@ -37,7 +37,7 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 **Description**: A modern e-commerce web application framework featuring user authentication, product management, and a component-based UI design. 🛒
 
-**Technologies**: TypeScript, React, Next.js, Prisma 🖥️
+**Technologies**: TypeScript, React, Next.js, Jest, Prisma 🖥️
 
 **Features**:
 - 🔐 **User Authentication**: Support for Google, Apple, and GitHub login.

@@ -6,7 +6,7 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 ---
 
-## 🎬 Project 1: Movie Auto Cutter - "Graham" ✂️
+## 🎬 [Project 1: Movie Auto Cutter - "Graham" ✂️](https://github.com/54yd/graham)
 
 **Description**: Movie Auto Cutter is a tool for segmenting videos based on timestamps or subtitle files, perfect for language learning, AI data preparation, and educational content editing. Simply upload a video and provide timestamps or an SRT file to auto-generate segmented clips. 🎥
 
@@ -19,7 +19,7 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 ---
 
-## 🐾 Project 2: AR Animal Interaction Website - "Kimaris" 🦁
+## 🐾 [Project 2: AR Animal Interaction Website - "Kimaris" 🦁](https://github.com/54yd/kimaris)
 
 **Description**: A mobile-optimized augmented reality platform for interacting with 3D animals. Users can place animals in AR, engage in mini-games, and enjoy real-time audio feedback that changes based on interactions. 📱
 
@@ -33,7 +33,8 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 ---
 
-## 🛍️ Project 3: E-Commerce Framework - "Palette" 💳
+## 🛍️ [Project 3: E-Commerce Framework - "Palette" 💳](https://github.com/54yd/palette)
+
 
 **Description**: A modern e-commerce web application framework featuring user authentication, product management, and a component-based UI design. 🛒
 

@@ -21,6 +21,8 @@ Welcome to my portfolio repository! Below are three of my recent projects that s
 
 ## 🐾 [Project 2: AR Animal Interaction Website - "Kimaris" 🦁](https://github.com/54yd/kimaris)
 
+**Deployed Web Site**: https://kimaris.vercel.app
+
 **Description**: A mobile-optimized augmented reality platform for interacting with 3D animals. Users can place animals in AR, engage in mini-games, and enjoy real-time audio feedback that changes based on interactions. 📱
 
 **Technologies**: React, ARKit, ServiceWorker(OfflineTechnology), PWA(installable), Web Audio API 📳

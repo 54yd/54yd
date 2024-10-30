@@ -2,15 +2,15 @@
 
 ## My Personal Statement 👋
 ---
-Growing up in Japan, I encountered heavy bullying, an experience that left me grappling with its traumatic impact. This incident opened my eyes to the stark reality of Human Activity and inspired me to advocate for change in our legal systems. Also, I believe that these 30 years of BAD ECONOMY in Japan changed All Japanese Minds because I was raised in a poor environment. I am pursuing the truth, the Economy, and Financial relation to Human Activity (Mental) by using Technology and Computer Science.
+Growing up in Japan, I encountered heavy bullying when I was 13. An experience that left me grappling with its traumatic impact. This incident opened my eyes to the stark reality of Human Activity(Brain, Mental, Spirit) and inspired me to advocate for change in our legal and social security systems. Also, I believe that these 30 years of BAD ECONOMY in Japan changed All Japanese Minds because I was raised in a poor environment. I am pursuing the truth, the Economy, and Financial relation to Human Activity by using Technology and Computer Science.
 
 Driven by these challenges, I've developed a passion for exploring how technology can play a role in preventing crime and supporting victims:
 
 1. **Preemptive surveillance**: Implementing AI-powered systems to monitor potential criminal activities and intervene before harm occurs.
-2. **Therapeutic interventions**: Using AI to identify at-risk individuals (e.g., through gaming behavior) and offer targeted therapy. (offering Game etc.)
+2. **Therapeutic interventions**: Using AI to identify at-risk individuals and offer targeted therapy. (offering Game App for complementing violent action in real life etc.)
 3. **AI-driven support for victims**: Empowering crime survivors, especially children, with AI assistants that facilitate access to appropriate treatment and support networks.
 
-My ultimate goal is to pioneer the development of an unbiased, automated investigation system that collects and preserves evidence, complementing traditional policing methods. 
+My ultimate goal is to pioneer the development of an unbiased, automated investigation system that collects and preserves evidence, complementing traditional policing methods. I love seeing people smile and want to create a society where everyone can live safely and happily.
 
 In pursuing my master's degree in Engineering at your esteemed institution, I aim not only to expand my technical knowledge but also to collaborate with like-minded individuals dedicated to making a tangible difference in society through technology.
 

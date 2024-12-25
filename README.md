@@ -1,6 +1,6 @@
 # 🩷 I love to people make happy by Computer Science. 🩷 
 
-#### $FYI: THE PROFILE ICON IS DRAWN BY MYSELF~! 🎨✨️
+#### *FYI: THE PROFILE ICON IS DRAWN BY MYSELF~! 🎨✨️
 
 ## My Personal Statement 👋
 ---

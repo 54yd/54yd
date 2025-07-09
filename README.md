@@ -81,4 +81,37 @@ Welcome to my portfolio repository! Below are four of my recent projects that sh
 
 ---
 
+
+🚨 Collaboration: Graham → Shiki for Crime Prevention 🚨
+
+To create a robust, end-to-end crime analysis pipeline, Graham and Shiki work in tandem:
+
+Video Segmentation (Graham)
+
+Graham processes raw CCTV footage and segments it into timestamped screenshots using subtitle or timestamp inputs.
+
+Automated Detection (Shiki)
+
+Each screenshot is fed into Shiki’s AI-powered detection API to identify and retrieve coordinates of persons or objects of interest.
+
+Integrated Workflow
+
+# Segment video into frames (STILL DEVELOPMENT so use CLI m(_ _)m )
+python -m graham.segment --video scene.mp4 --srt subtitles.srt --output frames/
+
+# Run Shiki on each frame
+for img in frames/*.png; do
+  python client/showui_gradio.py --image "$img" --prompt "Find suspect"
+done
+
+Research Impact
+
+This combined pipeline enables researchers to automatically convert hours of footage into structured data, facilitating rapid analysis, pattern discovery, and evidence preservation.
+
+By connecting these two open-source tools, we move closer to a proactive crime-prevention ecosystem driven by AI and data.
+
+
+
+
+
 Each project illustrates my dedication to creating practical and engaging applications. 🌈 Feel free to explore each repository for more details on setup, features, and future enhancements! 😊
